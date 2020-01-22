@@ -1,0 +1,24 @@
+
+/* Class = "UISegmentedControl"; 7uI-Vn-rFA.segmentTitles[0] = "All"; ObjectID = "7uI-Vn-rFA"; */
+"7uI-Vn-rFA.segmentTitles[0]" = "All";
+
+/* Class = "UISegmentedControl"; 7uI-Vn-rFA.segmentTitles[1] = "Favourites"; ObjectID = "7uI-Vn-rFA"; */
+"7uI-Vn-rFA.segmentTitles[1]" = "Favourites";
+
+/* Class = "UILabel"; text = "Titulo de la pelicula"; ObjectID = "Qkk-7Z-jxH"; */
+"Qkk-7Z-jxH.text" = "Titulo de la pelicula";
+
+/* Class = "UILabel"; text = "Categoria"; ObjectID = "gGU-J4-o9f"; */
+"gGU-J4-o9f.text" = "Categoria";
+
+/* Class = "UILabel"; text = "9,99€"; ObjectID = "hBs-vb-Slh"; */
+"hBs-vb-Slh.text" = "9,99€";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "k1v-8C-n1H"; */
+"k1v-8C-n1H.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Duración"; ObjectID = "pwX-oE-gv4"; */
+"pwX-oE-gv4.text" = "Duración";
+
+/* Class = "UILabel"; text = "Director"; ObjectID = "xqU-kA-Wp6"; */
+"xqU-kA-Wp6.text" = "Director";
